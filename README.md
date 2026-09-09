@@ -13,3 +13,9 @@ Este proyecto es una práctica para aprender control de versiones con Git y GitH
 ## Contacto
 
 Puedes encontrarme en GitHub.
+
+## Proyecto Git Practice
+
+Este proyecto sirve para practicar Git y GitHub.
+
+Estamos aprendiendo Git mediante ejercicios prácticos.
