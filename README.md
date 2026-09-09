@@ -13,3 +13,5 @@ Este proyecto es una práctica para aprender control de versiones con Git y GitH
 ## Contacto
 
 Puedes encontrarme en GitHub.
+
+Este repositorio contiene ejercicios para aprender Git y GitHub.
